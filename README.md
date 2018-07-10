@@ -1,3 +1,5 @@
 # hello-world
-getting familiar w/ Github
-trying new things
+
+trying new things\n
+
+getting more familiar w/ Github...
